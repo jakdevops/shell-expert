@@ -5,3 +5,10 @@
 
 
 3.good morning today we discuss regarding DNS server.
+
+4,ls
+ls -l
+uname -a
+uname
+cp 
+mv
