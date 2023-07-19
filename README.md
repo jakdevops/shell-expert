@@ -12,3 +12,5 @@ uname -a
 uname
 cp 
 mv
+
+more latest new commands we are added
