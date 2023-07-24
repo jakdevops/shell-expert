@@ -11,11 +11,13 @@ echo helloworld
 #echo -e "\e[CODEmMESSAGE\e[0m"
 
 echo -e "\e[31mHELLOW WORLD\e[0m"
-echo -e "\e"[32mhelow world\e[0m"
+echo -e "\e[32mhelow world\e[0m"
 echo -e "\e[33mhelooworld\e[0m"
 echo -e "\e[34mheloo world\e[0m"
 echo -e "\e[35mheloworld\e[0m"
-echo -e "\e[36mhelloworld\e[0m
+echo -e "\e[36mhelloworld\e[0m"
+
+
 
 
 
