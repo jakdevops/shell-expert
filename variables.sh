@@ -16,3 +16,6 @@ echo Today date is $DATE
 ADD=$(( 2+2 ))
 echo ADD of 2+2 = $ADD
 
+#Environament variables
+echo username - $USER
+echo Env var abc - $abc
